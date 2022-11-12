@@ -11,9 +11,9 @@
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/Phayuth/ros_tutor">ROS Tutorial</a></li>
-          <li><a href="https://github.com/Phayuth/ros_tutor2">ROS Tutorial 2</a></li>
-          <li><a href="https://github.com/Phayuth/ros2_tutor">ROS2 Tutorial</a></li>
+          <li><a href="https://github.com/Phayuth/ros_tutor">ROS1 Tutorial 1</a></li>
+          <li><a href="https://github.com/Phayuth/ros_tutor2">ROS1 Tutorial 2</a></li>
+          <li><a href="https://github.com/Phayuth/ros2_tutor">ROS2 Tutorial 1</a></li>
           <li><a href="https://github.com/Phayuth/cmake_tutor">Cmake Tutorial</a></li>
         </ul>
       </td>
