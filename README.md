@@ -12,10 +12,10 @@
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/Phayuth/ros_tutor">ROS1 Tutorial 1</a></li>
-          <li><a href="https://github.com/Phayuth/ros_tutor2">ROS1 Tutorial 2</a></li>
-          <li><a href="https://github.com/Phayuth/ros2_tutor">ROS2 Tutorial 1</a></li>
-          <li><a href="https://github.com/Phayuth/cmake_tutor">Cmake Tutorial</a></li>
+          <li><a href="https://github.com/Phayuth/ros_tutor">ROS1 - 1</a></li>
+          <li><a href="https://github.com/Phayuth/ros_tutor2">ROS1 - 2</a></li>
+          <li><a href="https://github.com/Phayuth/ros2_tutor">ROS2 - 1</a></li>
+          <li><a href="https://github.com/Phayuth/cmake_tutor">Cmake</a></li>
         </ul>
       </td>
       <td>
@@ -30,8 +30,8 @@
         <ul>
           <li><a href="https://github.com/Phayuth/delivery_robot">My Delivery Robot</a></li>
           <li><a href="https://github.com/Phayuth/robotros_sim">Differential Drive</a></li>
-          <li><a href="https://github.com/Phayuth/carbot">Ackermann Steering</a></li>
-          <li><a href="https://github.com/Phayuth/mecanum_wheel_bot">Mecanum 4 Wheels Drive</a></li>
+          <li><a href="https://github.com/Phayuth/carbot">Ackermann Steer</a></li>
+          <li><a href="https://github.com/Phayuth/mecanum_wheel_bot">Mecanum Drive</a></li>
         </ul>
       </td>
       <td>
@@ -45,6 +45,7 @@
        <td>
         <ul>
           <li><a href="https://github.com/Phayuth/ros_dcmotor">ROS DCmotor</a></li>
+          <li><a href="https://github.com/Phayuth/ros_torch">ROS Torch</a></li>
         </ul>
       </td>
     </tr>
