@@ -29,6 +29,7 @@
       <td>
         <ul>
           <li><a href="https://github.com/Phayuth/delivery_robot">My Delivery Robot</a></li>
+          <li><a href="https://github.com/Phayuth/delivery_robot_ros2">My Delivery Robot ROS2</a></li>
           <li><a href="https://github.com/Phayuth/robotros_sim">Differential Drive</a></li>
           <li><a href="https://github.com/Phayuth/carbot">Ackermann Steer</a></li>
           <li><a href="https://github.com/Phayuth/mecanum_wheel_bot">Mecanum Drive</a></li>
@@ -46,6 +47,8 @@
         <ul>
           <li><a href="https://github.com/Phayuth/ros_dcmotor">ROS DCmotor</a></li>
           <li><a href="https://github.com/Phayuth/ros_torch">ROS Torch</a></li>
+          <li><a href="https://github.com/Phayuth/ros2_coppelia">ROS2 Coppelia</a></li>
+          <li><a href="https://github.com/Phayuth/robotiq_2f_gripper">Robotiq 2F</a></li>
         </ul>
       </td>
     </tr>
