@@ -45,7 +45,6 @@
        <td>
         <ul>
           <li><a href="https://github.com/Phayuth/ros_dcmotor">ROS DCmotor</a></li>
-          <li><a href="https://github.com/Phayuth/neural_net_cpp">CPP NN</a></li>
           <li><a href="https://github.com/Phayuth/ros2_coppelia">Coppelia Sim</a></li>
           <li><a href="https://github.com/Phayuth/robotiq_2f_gripper">Robotiq 2F</a></li>
         </ul>
