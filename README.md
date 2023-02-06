@@ -14,7 +14,6 @@
         <ul>
           <li><a href="https://github.com/Phayuth/ros_tutor">ROS1</a></li>
           <li><a href="https://github.com/Phayuth/ros2_tutor">ROS2</a></li>
-          <li><a href="https://github.com/Phayuth/cmake_tutor">Cmake</a></li>
         </ul>
       </td>
       <td>
