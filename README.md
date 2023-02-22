@@ -19,7 +19,7 @@
       <td>
         <ul>
           <li><a href="https://github.com/Phayuth/harvester_arm">Harvester Arm</a></li>
-          <li><a href="https://github.com/Phayuth/ros_camera">ROS Camera</a></li>
+          <li><a href="https://github.com/Phayuth/robotiq_2f_gripper">Robotiq 2F</a></li>
           <li><a href="https://github.com/Phayuth/onrobot_sg">Onrobot SG</a></li>
           <li><a href="https://github.com/Phayuth/onrobot_sg_ros2">Onrobot SG ROS2</a></li>
         </ul>
@@ -44,7 +44,6 @@
         <ul>
           <li><a href="https://github.com/Phayuth/ros_dcmotor">ROS DCmotor</a></li>
           <li><a href="https://github.com/Phayuth/ros2_coppelia">Coppelia Sim</a></li>
-          <li><a href="https://github.com/Phayuth/robotiq_2f_gripper">Robotiq 2F</a></li>
         </ul>
       </td>
     </tr>
