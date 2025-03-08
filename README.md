@@ -1,17 +1,17 @@
 ### Hi there 👋
-Blog : https://phayuth.github.io/
+#### My Blog: https://phayuth.github.io/
 
 <table style="width: auto; table-layout: auto;">
   <tbody>
     <tr>
-      <th align="center">Robotic</th>
+      <th align="center">Robotics</th>
       <th align="center">Manipulator</th>
       <th align="center">Mobile Robot</th>
     </tr>
     <tr>
       <td>
         <ul>
-          <li><a href="https://github.com/Phayuth/robotics_manipulator">Robotics Manipulator</a></li>
+          <li><a href="https://github.com/Phayuth/robotics">Robotics</a></li>
           <li><a href="https://github.com/Phayuth/ros_dcmotor">ROS DCmotor</a></li>
         </ul>
       </td>
@@ -25,7 +25,7 @@ Blog : https://phayuth.github.io/
       </td>
       <td>
         <ul>
-          <li><a href="https://github.com/Phayuth/delivery_robot">Delivery Robot</a></li>
+          <li><a href="https://github.com/Phayuth/delivery_robot">Delivery Robot ROS1</a></li>
           <li><a href="https://github.com/Phayuth/delivery_robot_ros2">Delivery Robot ROS2</a></li>
         </ul>
       </td>
